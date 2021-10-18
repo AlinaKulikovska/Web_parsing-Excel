@@ -14,4 +14,4 @@ I have task to parse ecxel file from web site http://www.ukrstat.gov.ua/ , that 
 
 6.value - число параметру.
 
-And the necessary sheets in document are 6-25,30,31,38,39,45,46.
+And the necessary sheets in document are 6-25,30,31,38,39,45,46. All results you can see in file 
